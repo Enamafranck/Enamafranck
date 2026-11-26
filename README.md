@@ -1,6 +1,6 @@
-Salut, je suis ENAMA Franck 
+## Salut, je suis ENAMA Franck 
 
-Étudiant ingénieur en informatique (INSTITUT UNIVERSITAIRE DE LA COTE, DOUALA).
+Étudiant ingénieur en informatique (INSTITUT UNIVERSITAIRE DE LA COTE (IUC), DOUALA).
 Je construis des applications, je les sécurise et j'y ajoute de l'IA.
 
 ## Ce que je fais
