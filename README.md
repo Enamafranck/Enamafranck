@@ -1,16 +1,19 @@
-## Hi there 👋
+Salut, je suis ENAMA Franck 
 
-<!--
-**Enamafranck/Enamafranck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant ingénieur en informatique (INSTITUT UNIVERSITAIRE DE LA COTE, DOUALA).
+Je construis des applications, je les sécurise et j'y ajoute de l'IA.
 
-Here are some ideas to get you started:
+## Ce que je fais
+- **Développement** : PHP,HTML,CSS,JS,REACT;framework:laravel 
+- **Cybersécurité** : Linux, réseaux, sécurité des applications (en apprentissage)
+- **Data et IA** : Python, machine learning, IA responsable
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+- [fincoach-api](https://github.com/Enamafranck/fincoach-api) : coach intelligent qui vous donne une education financière 
+- [nail-health-app](https://github.com/Enamafranck/nail-health-app) : detection des maladies des ongles grace a l ia
+
+## En ce moment
+Je passe GitHub Skills, Linux (LFS101) et Cisco Networking Academy.
+
+## Me contacter
+enamafranck35@gmail.com
