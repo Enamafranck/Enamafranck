@@ -1,6 +1,6 @@
-## Salut, je suis ENAMA Franck 
+# Salut, je suis Franck 👋
 
-Étudiant ingénieur en informatique (INSTITUT UNIVERSITAIRE DE LA COTE (IUC), DOUALA).
+Étudiant ingénieur en informatique (Institut Universitaire De La Cote, Douala).
 Je construis des applications, je les sécurise et j'y ajoute de l'IA.
 
 ## Ce que je fais
@@ -12,8 +12,9 @@ Je construis des applications, je les sécurise et j'y ajoute de l'IA.
 - [fincoach-api](https://github.com/Enamafranck/fincoach-api) : coach financier intelligent qui accompagne l'éducation financière
 - [nail-health-app](https://github.com/Enamafranck/nail-health-app) : prototype d'aide au dépistage de problèmes des ongles par IA (ne remplace pas un avis médical)
 
-## En ce moment
-Terminé : GitHub Skills. En préparation : Linux (LFS101) et Cisco Networking Academy.
+## Apprentissage
+- Terminé : GitHub Skills (Introduction to GitHub, Communicate using Markdown)
+- En préparation : Linux (LFS101), Cisco Networking Academy
 
 ## Me contacter
-enamafranck35@gmail.com
+[LinkedIn] · enamafranck35@gmail.com
