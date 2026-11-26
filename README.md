@@ -4,7 +4,7 @@
 Je construis des applications, je les sécurise et j'y ajoute de l'IA.
 
 ## Ce que je fais
-- **Développement** : PHP, Laravel, JavaScript, React, HTML, CSS
+- **Développement** :Python, FastAPI PHP, Laravel, JavaScript, React, HTML, CSS, SQL (Supabase/PostgreSQL).
 - **Cybersécurité** : Linux, réseaux, sécurité des applications (en apprentissage)
 - **Data et IA** : Python, machine learning, IA responsable
 
